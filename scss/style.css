@@ -102,10 +102,12 @@
   .stack table {
     margin-top: 40px;
     border: 1px solid #e6e6e6;
+    border-radius: 5px;
     width: 800px;
     height: 80px; }
   .stack td {
     border: 1px solid gray;
+    border-radius: 5px;
     height: 80px;
     width: 100px;
     padding-left: 40px; }
