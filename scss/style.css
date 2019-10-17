@@ -160,6 +160,10 @@
     color: floralwhite;
     border-radius: 25px;
     font-size: 20px; }
+  .opr button:hover {
+    background-color: #e438ff;
+    box-shadow: 0px 10px 15px  #841396;
+    transform: translateY(-3px); }
 
 .footer {
   width: 100%;
