@@ -151,7 +151,7 @@
     transform: translateX(-50%) translateY(-50%);
     padding-top: 80px; }
   .opr button {
-    width: 120px;
+    width: 100px;
     height: 45px;
     border: 1px solid gray;
     background-color: #8f0e88ea;
